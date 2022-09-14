@@ -10,7 +10,7 @@ public class bubbleSort {
 			System.out.print(+array[i]+" ");
 			}
 	}
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the size of array:");
 		n=sc.nextInt();

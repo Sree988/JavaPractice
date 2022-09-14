@@ -9,7 +9,7 @@ public class selectionSort {
 			System.out.println(array[i]);
 		}
 	}
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
 		int array[]=new int[n];
